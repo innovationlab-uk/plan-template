@@ -1,12 +1,15 @@
 # Innovation Template
 How do you organise your documents and collaborate with your colleagues? Use this method to guide you.
 
+* [The Innovation Estimate](innovation_estimate)
 * [Business](business)
   * Business Model Canvas
   * PNA
   * User features and benefits
 * [Users](users)
 * [Product](product)
+  * Metrics
+  * User journeys
   * Roadmaps
 * Application development life-cycle
   * Planning: "what do we want?" we determine the costs and resources, the requirements. Feasibility planning.
